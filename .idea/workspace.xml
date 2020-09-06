@@ -1,13 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee787c43-a32a-4315-8a59-9ae94a59a3c6" name="Default Changelist" comment="" />
+    <list default="true" id="ee787c43-a32a-4315-8a59-9ae94a59a3c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AnnaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollaborationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EbonyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JoshDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LuisDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MafuzDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NijatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PazletDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZoeyDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1h9Uw5eIpfr3NNpVYX0hXLwNms2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
