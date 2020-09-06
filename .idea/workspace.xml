@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee787c43-a32a-4315-8a59-9ae94a59a3c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AnnaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollaborationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EbonyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JoshDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LuisDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MafuzDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NijatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PazletDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZoeyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollaborationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollaborationDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,5 +42,11 @@
       <updated>1599423037095</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="52" key="SettingsEditor" timestamp="1599424384030">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="220" y="52" key="SettingsEditor/0.23.1680.962@0.23.1680.962" timestamp="1599424384030" />
   </component>
 </project>
