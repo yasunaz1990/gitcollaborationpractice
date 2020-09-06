@@ -5,6 +5,7 @@ public class CollaborationDemo {
         // section A
 
         // section B
+        int number = 10;
 
         // section C
 
